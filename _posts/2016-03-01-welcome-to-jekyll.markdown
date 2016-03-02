@@ -1,25 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-03-01 07:00:28 +0000
-categories: jekyll update
+title:  "HND to Full Degree"
+date:   2016-03-02 07:00:28 +0000
+categories: Degree
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Hi everyone,
+            In September 2016, all going well, I should be embarking on a new
+            chapter in my life and going to Southampton Solent University to
+            top-up my Higher National Diploma (HND) to a full degree in
+            computing. In preparation for this  I am creating this blog as a
+            means of keeping a journal of my studies, as well as a means to
+            learn some new skills.
+            I have used GitHub Pages, Jekyll and CloudCannon to build this blog.
+            I was able to get everything configured and running in about two
+            hours (this included reading and research time).
+            I am now looking forward to tinkering with these new tools and
+            learning how to use them. 
