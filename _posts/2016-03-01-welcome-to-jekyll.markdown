@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HND to Full Degree"
-date:   2016-03-02 07:00:28 +0000
+date:   2016-03-01 07:00:28 +0000
 categories: Degree
 ---
 Hi everyone,
@@ -15,4 +15,4 @@ Hi everyone,
             I was able to get everything configured and running in about two
             hours (this included reading and research time).
             I am now looking forward to tinkering with these new tools and
-            learning how to use them. 
+            learning how to use them.
