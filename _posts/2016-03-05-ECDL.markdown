@@ -1,5 +1,5 @@
 ---
-layout: post;
+layout: post
 title: "ECDL PowerPoint Presentation"
 date: 2016-03-05 07:00:28 +0000
 categories: - ECDL
