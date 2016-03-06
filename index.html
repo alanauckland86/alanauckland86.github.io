@@ -9,28 +9,26 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
 
-    {% comment %}
-       If post's categories = ecdl, create a new list
-       with a class of ecdl-list
-    {% endcomment %}
+        {% for categories in post.categories %}
+            {% if categories == 'ECDL' %}
+                <h1>ECDL is recognised</h1>
+                    <ul class="ecdl-list">
+                        <li>
+                            <span class="post-meta">{{ post.date | date: "%-d %b, %Y" }}</span>
+                            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                        <li>
+                    </ul>
+            {%endif%}
+        {%endfor%}
 
-    {% if post.categories == 'ECDL' %}
-      <h1>ECDL is recognised</h1>
-        <ul class="ecdl-list">
-            <li>
-                <span class="post-meta">{{ post.date | date: "%-d %b, %Y" }}</span>
+         <li>
+             <span class="post-meta">{{ post.date | date: "%-d %b, %Y" }}</span>
+
+            <h2>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            <li>
-       </ul>
-       {%endif%}
+            </h2>
 
-      <li>
-        <span class="post-meta">{{ post.date | date: "%-d %b, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+        </li>
     {% endfor %}
   </ul>
 
