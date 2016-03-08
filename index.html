@@ -6,14 +6,6 @@ layout: default
 
   <h1 class="page-heading">Posts</h1>
 
-      <ul class="ecdl-list">
-          {% for post in site.categories.ECDL %}
-              {% if post.url %}
-                  <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> </li>
-              {% endif %}
-          {% endfor %}
-      </ul>
-
   <ul class="post-list">
     {% for post in site.posts %}
       <li>

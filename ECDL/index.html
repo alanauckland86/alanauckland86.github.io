@@ -1,0 +1,17 @@
+---
+layout: page
+title: ECDL
+permalink: /ecdl/
+---
+<div class="home">
+
+
+<ul class="ecdl-list">
+    {% for post in site.categories.ECDL %}
+        {% if post.url %}
+            <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> </li>
+        {% endif %}
+    {% endfor %}
+</ul>
+
+</div>
