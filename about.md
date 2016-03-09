@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
 Hello, It is a pleasure to meet you!
 
 I am Alan, and I am glad you have taken the time to find out a little about me.
@@ -22,7 +21,7 @@ I later started to look at a new career path and completed a college course in
 Countryside Management, where I found I had a good aptitude for teaching others
 and gained employment as a Teaching Assistant at the college.
 
-Whilst working as a Teaching Assistant I found myself supporting students on a 
+Whilst working as a Teaching Assistant I found myself supporting students on a
 level 3 I.T course. It was pretty much identical to the first college course I
 attended as a 16 year old and I found myself remembering and connecting many
 missing dots.
