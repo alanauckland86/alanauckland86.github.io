@@ -8,331 +8,133 @@ tags: ECDL
 Please bare with me while I am setting this up and getting it
 to work how I envisage it to work.
 
-# Word #
+## Word ##
 
-[1](#1)
-[2](#2)
-[3](#3)
-[4](#4)
-[5](#5)
-[6](#6)
-[7](#7)
-[8](#8)
-[9](#9)
-[10](#10)
-[11](#11)
-[12](#12)
-[13](#13)
-[14](#14)
-[15](#15)
-[16](#16)
-[17](#17)
-[18](#18)
-[19](#19)
-[20](#20)
-[21](#21)
-[22](#22)
-[23](#23)
-[24](#24)
-[25](#25)
-[26](#26)
-[27](#27)
-[28](#28)
-[29](#29)
-[30](#30)
-[31](#31)
-[32](#32)
-[33](#33)
-[34](#34)
-[35](#35)
-[36](#36)
-[37](#37)
-[38](#38)
-[39](#39)
-[40](#40)
-[41](#41)
-[42](#42)
-[43](#43)
-[44](#44)
-[45](#45)
-[46](#46)
-[47](#47)
-[48](#48)
-[49](#49)
-[50](#50)
-[51](#51)
-[52](#52)
-[53](#53)
-[54](#54)
-[55](#55)
-[56](#56)
-[57](#57)
-[58](#58)
-[59](#59)
-[60](#60)
-[61](#61)
-[62](#62)
-[63](#63)
-[64](#64)
-[65](#65)
+Question:
+[1](#q1), [2](#q2), [3](#q3), [4](#q4), [5](#q5), [6](#q6), [7](#q7), [8](#q8),
+[9](#q9), [10](#q10), [11](#q11), [12](#q12), [13](#q13), [14](#q14),
+[15](#q15), [16](#q16), [17](#q17), [18](#q18), [19](#q19), [20](#q20),
+[21](#q21), [22](#q22), [23](#q23), [24](#q24), [25](#q25), [26](#q26),
+[27](#q27), [28](#q28), [29](#q29), [30](#q30), [31](#q31), [32](#q32),
+[33](#q33), [34](#q34), [35](#q35), [36](#q36), [37](#q37), [38](#q38),
+[39](#q39), [40](#q40), [41](#q41), [42](#q42), [43](#q43), [44](#q44),
+[45](#q45), [46](#q46), [47](#q47), [48](#q48), [49](#q49), [50](#q50),
+[51](#q51), [52](#q52), [53](#q53), [54](#q54), [55](#q55), [56](#q56),
+[57](#q57), [58](#q58), [59](#q59), [60](#q60), [61](#q61), [62](#q62),
+[63](#q63), [64](#q64), [65](#q65),
+{: .Question-numbers }
 
 
-<ol id="question-number">
+1. {: #q1} Create a new, blank document   
 
+    **A:** Click the **FILE** tab, then click **New**.  
+    return
+    Double-click **Blank document**.
 
+2. {: #q2} Save the document to `\` using the file name show.
+    **A:** Click the **File** tab, then click **Save As** then **Browse**.
 
+    In the **Save As** dialogue box, change the file name to **show**
 
-    <li><a href = "#2">2</a><li>
-    <li><a href = "#3">3</a><li>
-    <li><a href = "#4">4</a><li>
-    <li><a href = "#5">5</a><li>
-    <li><a href = "#6">6</a><li>
-    <li><a href = "#7">7</a><li>
-    <li><a href = "#8">8</a><li>
-    <li><a href = "#9">9</a><li>
-    <li><a href = "#10">10</a><li>
-    <li><a href = "#11">11</a><li>
-    <li><a href = "#12">12</a><li>
-    <li><a href = "#13">13</a><li>
-    <li><a href = "#14">14</a><li>
-    <li><a href = "#15">15</a><li>
-    <li><a href = "#16">16</a><li>
-    <li><a href = "#17">17</a><li>
-    <li><a href = "#18">18</a><li>
-    <li><a href = "#19">19</a><li>
-    <li><a href = "#20">20</a><li>
-</ol>
+    Click **Save**.
 
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
+3. {: #q3} Change the Word user name to Jim Brown.
 
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
-this is some random content
+    Click the **File** tab, and then click **Options**.
+    Under **Personalize your copy of Microsoft Office**, type **Jim Brown** in
+    the **User name** box.
+4. {: #q4} Zoom the document to 105%
 
+    On the **view** tab, in the **Zoom** group, click **Zoom**.
 
+    in the **Percent** list, type 105.   
 
+5. {: #q5} Where should you click to display the ribbon?
 
-<ol>
-     What ever question is.</li>
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    <li id="2"> What ever question is.</li>
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    this is some random content
-    <li id="3"> What ever question is.</li>
+    The Quick Access Toolbar, right-click
 
+    The Tab bar, right-click on tab name
 
-    [1](#1) item 1       
-</ol>
+    The Ribbon Display options button
+
+6. {: #q6} Where should you click to open the help function?
+
+    The Help icon.
+
+7. {: #q7} Save this document as Word Template format to This \ span!. Keep the
+    default
+    file name.
+
+    Click the **File** tab, then click **Save As**, and then click **Browse**.
+
+    In the **Save As** dialogue box, select **Word Template ** in the **Save as
+    type** list.
+
+    Click **Save**.
+
+    ### Document Creation ###
+8. {: #q8} Switch to Print Layout mode.
+
+    On the **View** tab, in the **Views** group, clikc the **Print Layout**
+    button.
+
+9. {: #q9} Hide non-printing formatting marks in the document.
+
+    On the **Home** tab, in the **Paragraph** group, click the **Show/Hide**
+    button.
+10. {: #q10}
+11. {: #q11}
+12. {: #q12}
+13. {: #q13}
+14. {: #q14}
+15. {: #q15}
+16. {: #q16}
+17. {: #q17}
+18. {: #q18}
+19. {: #q19}
+20. {: #q20}
+21. {: #q21}
+22. {: #q22}
+23. {: #q23}
+24. {: #q24}
+25. {: #q25}
+26. {: #q26}
+27. {: #q27}
+28. {: #q28}
+29. {: #q29}
+30. {: #q30}
+31. {: #q31}
+32. {: #q32}
+33. {: #q33}
+34. {: #q34}
+35. {: #q35}
+36. {: #q36}
+37. {: #q37}
+38. {: #q38}
+39. {: #q39}
+40. {: #q40}
+41. {: #q41}
+42. {: #q42}
+43. {: #q43}
+44. {: #q44}
+45. {: #q45}
+46. {: #q46}
+47. {: #q47}
+48. {: #q48}
+49. {: #q49}
+50. {: #q50}
+51. {: #q51}
+52. {: #q52}
+53. {: #q53}
+54. {: #q54}
+55. {: #q55}
+56. {: #q56}
+57. {: #q57}
+58. {: #q58}
+59. {: #q59}
+60. {: #q60}
+61. {: #q61}
+62. {: #q62}
+63. {: #q63}
+64. {: #q64}
+65. {: #q65}
