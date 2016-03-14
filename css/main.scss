@@ -60,22 +60,21 @@ $on-laptop:        800px;
 
 .ecdl-qa{
     position: relative;
-    height: 500px;
-    overflow-y: scroll;
+    width:700px;
+    height:700px;;
+    margin: auto;
 }
 
 .Question-numbers {
-    position:absolute;
-    padding:5px;
-    margin-top:0;
-    margin-left:14px;
-    width:700px;
+    height: 100px;
+    width: 100%;
 }
 
-
+.ecdl-ans{
+    position: absolute;
+    overflow-y: scroll;
+    height: 500px;
+}
   .ecdl-list {
       list-style: none;
   }
-/**
-    Question-numbers
-*/
