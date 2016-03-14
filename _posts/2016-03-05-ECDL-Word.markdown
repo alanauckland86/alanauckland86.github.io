@@ -8,6 +8,8 @@ tags: ECDL
 Please bare with me while I am setting this up and getting it
 to work how I envisage it to work.
 
+
+<div class ="ecdl-qa" markdown="1">
 ## Word ##
 
 Question:
@@ -21,7 +23,7 @@ Question:
 [45](#q45), [46](#q46), [47](#q47), [48](#q48), [49](#q49), [50](#q50),
 [51](#q51), [52](#q52), [53](#q53), [54](#q54), [55](#q55), [56](#q56),
 [57](#q57), [58](#q58), [59](#q59), [60](#q60), [61](#q61), [62](#q62),
-[63](#q63), [64](#q64), [65](#q65),
+[63](#q63), [64](#q64), [65](#q65)
 {: .Question-numbers }
 
 
@@ -75,7 +77,7 @@ Question:
     ### Document Creation ###
 8. {: #q8} Switch to Print Layout mode.
 
-    On the **View** tab, in the **Views** group, clikc the **Print Layout**
+    On the **View** tab, in the **Views** group, click the **Print Layout**
     button.
 
 9. {: #q9} Hide non-printing formatting marks in the document.
@@ -138,3 +140,5 @@ Question:
 63. {: #q63}
 64. {: #q64}
 65. {: #q65}
+
+</div>

@@ -51,3 +51,31 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+//**************
+// Site styling*
+//**************
+
+// ecdl pages
+
+.ecdl-qa{
+    position: relative;
+    height: 500px;
+    overflow-y: scroll;
+}
+
+.Question-numbers {
+    position:absolute;
+    padding:5px;
+    margin-top:0;
+    margin-left:14px;
+    width:700px;
+}
+
+
+  .ecdl-list {
+      list-style: none;
+  }
+/**
+    Question-numbers
+*/

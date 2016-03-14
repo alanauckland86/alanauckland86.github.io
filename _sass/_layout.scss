@@ -214,6 +214,7 @@
 }
 
 .post-content {
+    position: relative;
     margin-bottom: $spacing-unit;
 
     h2 {
@@ -240,11 +241,3 @@
         }
     }
 }
-/**
-  ecdl-list
-  */
-
-  .ecdl-list {
-
-      list-style: none;
-  }
