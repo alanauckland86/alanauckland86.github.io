@@ -14,29 +14,18 @@ to work how I envisage it to work.
 
 <div class ="ecdl-qa" markdown="1" id="ecdl-top">
 
-Question:
-[1](#q1), [2](#q2), [3](#q3), [4](#q4), [5](#q5), [6](#q6), [7](#q7), [8](#q8),
-[9](#q9), [10](#q10), [11](#q11), [12](#q12), [13](#q13), [14](#q14),
-[15](#q15), [16](#q16), [17](#q17), [18](#q18), [19](#q19), [20](#q20),
-[21](#q21), [22](#q22), [23](#q23), [24](#q24), [25](#q25), [26](#q26),
-[27](#q27), [28](#q28), [29](#q29), [30](#q30), [31](#q31), [32](#q32),
-[33](#q33), [34](#q34), [35](#q35), [36](#q36), [37](#q37), [38](#q38),
-[39](#q39), [40](#q40), [41](#q41), [42](#q42), [43](#q43), [44](#q44),
-[45](#q45), [46](#q46), [47](#q47), [48](#q48), [49](#q49), [50](#q50),
-[51](#q51), [52](#q52), [53](#q53), [54](#q54), [55](#q55), [56](#q56),
-[57](#q57), [58](#q58), [59](#q59), [60](#q60), [61](#q61), [62](#q62),
-[63](#q63), [64](#q64), [65](#q65)
-{: .Question-numbers }
+{% include ecdl-questions.md %}
 
 <div class="ecdl-ans" markdown="1">
-1. {: #q1} Create a new, blank document   
+
+1. {: #q1} Create a new, blank document.   
 
     **A:** Click the **FILE** tab, then click **New**.  
-    return
-    Double-click **Blank document**.
+    return Double-click **Blank document**.
     [Top](#ecdl-top)
 
 2. {: #q2} Save the document to `\` using the file name show.
+
     **A:** Click the **File** tab, then click **Save As** then **Browse**.
 
     In the **Save As** dialogue box, change the file name to **show**
@@ -50,6 +39,7 @@ Question:
     Under **Personalize your copy of Microsoft Office**, type **Jim Brown** in
     the **User name** box.
     [Top](#ecdl-top)
+
 4. {: #q4} Zoom the document to 105%
 
     On the **view** tab, in the **Zoom** group, click **Zoom**.
@@ -71,9 +61,8 @@ Question:
     The Help icon.
     [Top](#ecdl-top)
 
-7. {: #q7} Save this document as Word Template format to This \ span!. Keep the
-    default
-    file name.
+7. {: #q7} Save this document as Word Template format to This `\` span!. Keep
+    the default file name.
 
     Click the **File** tab, then click **Save As**, and then click **Browse**.
 
@@ -83,7 +72,7 @@ Question:
     Click **Save**.
     [Top](#ecdl-top)
 
-    ### Document Creation ###
+     Document Creation
 8. {: #q8} Switch to Print Layout mode.
 
     On the **View** tab, in the **Views** group, click the **Print Layout**
@@ -95,62 +84,228 @@ Question:
     On the **Home** tab, in the **Paragraph** group, click the **Show/Hide**
     button.
     [Top](#ecdl-top)
-10. {: #q10}[Top](#ecdl-top)
-11. {: #q11}[Top](#ecdl-top)
-12. {: #q12}[Top](#ecdl-top)
-13. {: #q13}[Top](#ecdl-top)
-14. {: #q14}[Top](#ecdl-top)
-15. {: #q15}[Top](#ecdl-top)
-16. {: #q16}[Top](#ecdl-top)
-17. {: #q17}[Top](#ecdl-top)
-18. {: #q18}[Top](#ecdl-top)
-19. {: #q19}[Top](#ecdl-top)
-20. {: #q20}[Top](#ecdl-top)
-21. {: #q21}[Top](#ecdl-top)
-22. {: #q22}[Top](#ecdl-top)
-23. {: #q23}[Top](#ecdl-top)
-24. {: #q24}[Top](#ecdl-top)
-25. {: #q25}[Top](#ecdl-top)
-26. {: #q26}[Top](#ecdl-top)
-27. {: #q27}[Top](#ecdl-top)
-28. {: #q28}[Top](#ecdl-top)
-29. {: #q29}[Top](#ecdl-top)
-30. {: #q30}[Top](#ecdl-top)
-31. {: #q31}[Top](#ecdl-top)
-32. {: #q32}[Top](#ecdl-top)
-33. {: #q33}[Top](#ecdl-top)
-34. {: #q34}[Top](#ecdl-top)
-35. {: #q35}[Top](#ecdl-top)
-36. {: #q36}[Top](#ecdl-top)
-37. {: #q37}[Top](#ecdl-top)
-38. {: #q38}[Top](#ecdl-top)
-39. {: #q39}[Top](#ecdl-top)
-40. {: #q40}[Top](#ecdl-top)
-41. {: #q41}[Top](#ecdl-top)
-42. {: #q42}[Top](#ecdl-top)
-43. {: #q43}[Top](#ecdl-top)
-44. {: #q44}[Top](#ecdl-top)
-45. {: #q45}[Top](#ecdl-top)
-46. {: #q46}[Top](#ecdl-top)
-47. {: #q47}[Top](#ecdl-top)
-48. {: #q48}[Top](#ecdl-top)
-49. {: #q49}[Top](#ecdl-top)
-50. {: #q50}[Top](#ecdl-top)
-51. {: #q51}[Top](#ecdl-top)
-52. {: #q52}[Top](#ecdl-top)
-53. {: #q53}[Top](#ecdl-top)
-54. {: #q54}[Top](#ecdl-top)
-55. {: #q55}[Top](#ecdl-top)
-56. {: #q56}[Top](#ecdl-top)
-57. {: #q57}[Top](#ecdl-top)
-58. {: #q58}[Top](#ecdl-top)
-59. {: #q59}[Top](#ecdl-top)
-60. {: #q60}[Top](#ecdl-top)
-61. {: #q61}[Top](#ecdl-top)
-62. {: #q62}[Top](#ecdl-top)
-63. {: #q63}[Top](#ecdl-top)
-64. {: #q64}[Top](#ecdl-top)
-65. {: #q65}[Top](#ecdl-top)
+
+10. {: #q10}At the top of the page, enter the word Smith to the
+    right of John
+
+    **A** Click to the right of **John** and type the word **Smith.**
+
+    Make sure that there is a space between **John** and **Smith**
+    [Top](#ecdl-top)
+
+11. {: #q11} In the paragraph beginning If possible..., enter
+    the word parking between the words the and garage. [Top](#ecdl-top)
+
+    **A** In the paragraph that begins with **If possible...**, click once
+    between the words **the** and **garage** and type the word **parking**.
+
+12. {: #q12} In the paragraph beginning There will..., change
+    the word customers to guests.
+
+    **A:** Find the paragraph that begins with **There will...**
+
+    Select the word **customers**.
+
+    Type the word **guests**.
+
+    Make sure that there is a place on either side of **guests**.
+    [Top](#ecdl-top)
+
+13. {: #q13} Use the appropriate command to find all occurrences
+    of the word the. Enter the number of times it occurs after the text Enter
+    number here: at the top of the page. (Use a figure.)
+
+    **A:** On the **Home** tab, in the **Editing** group, click **Find**.
+    The **Navigation** task pane is displayed.
+    In the **Search Document** box, type **the**.
+    The number of found words is displayed.
+    At the top of the document, type the number of times the word appears
+    by entering a number (example: 100, not hundred.) [Top](#ecdl-top)
+
+
+
+14. {: #q14} Copy the word Smith from the top of the page. Place it to the
+    right of the words Dear Mr..
+
+    **A:** Select the word **Smith**.
+    Click the **Copy** button found in the **Clipboard** group on the Home tab.
+    Click to the right of the word **Mr**.
+    Click the **Paste** button found in the **Clipboard** group on the **Home**
+    tab. [Top](#ecdl-top)
+15. {: #q15} Move the paragraph beginning If possible.... Place it between
+    the paragraphs beginning There will... and Yours sincerely....
+
+    **A:** Select the paragraph beginning **If possible....**
+    Click the **Cut** button found in the **Clipboard** group on the **Home**
+    tab.
+    Click to the left of the word **Yours**.
+    Click the **Paste** button found in the **Clipboard** group on the **Home**
+    tab. [Top](#ecdl-top)
+16. {: #q16} In the paragraph beginning We at..., delete the word luxury.
+
+    **A:** In the paragraph beginning **We at...**, select the word **luxury**.
+    Press the **Delete** key once. [Top](#ecdl-top)
+17. {: #q17} At the bottom of the page, insert a copyright symbol ( &copy; )
+    to the left of Mary Smith.
+
+    **A:** Click to the left of **Mary Smith**.
+On the **Insert tab**, in the **Symbols** group, click **Symbol**.
+Click the copyright symbol ( &copy; ) in the drop-down list.
+If the copyright symbol is not in the list, click **More Symbols**.
+[Top](#ecdl-top)
+
+18. {: #q18} Use the appropriate command to automatically replace all
+    occurrences of the word component with part.
+
+    **A:** On the **Home** tab, in the **Editing** group, click **Replace**.
+    In the **Find what** box, type **component**.
+    In the **Replace with** box, type **part**.
+    Click **Replace All**. [Top](#ecdl-top)
+
+19. {: #q19} Use the appropriate command to undo the last action.
+
+    **A**  Click the **Undo** button in the **Quick Access** toolbar.
+    The **Quick Access** toolbar is located in the upper left corner of the
+     window.[Top](#ecdl-top)
+
+20. {: #q20}
+
+[Top](#ecdl-top)
+21. {: #q21}
+
+[Top](#ecdl-top)
+22. {: #q22}
+
+[Top](#ecdl-top)
+23. {: #q23}
+
+[Top](#ecdl-top)
+24. {: #q24}
+
+[Top](#ecdl-top)
+25. {: #q25}
+
+[Top](#ecdl-top)
+26. {: #q26}
+
+[Top](#ecdl-top)
+27. {: #q27}
+
+[Top](#ecdl-top)
+28. {: #q28}
+
+[Top](#ecdl-top)
+29. {: #q29}
+
+[Top](#ecdl-top)
+30. {: #q30}
+
+[Top](#ecdl-top)
+31. {: #q31}
+
+[Top](#ecdl-top)
+32. {: #q32}
+
+[Top](#ecdl-top)
+33. {: #q33}
+
+[Top](#ecdl-top)
+34. {: #q34}
+
+[Top](#ecdl-top)
+35. {: #q35}
+
+[Top](#ecdl-top)
+36. {: #q36}
+
+[Top](#ecdl-top)
+37. {: #q37}
+
+[Top](#ecdl-top)
+38. {: #q38}
+
+[Top](#ecdl-top)
+39. {: #q39}
+
+[Top](#ecdl-top)
+40. {: #q40}
+
+[Top](#ecdl-top)
+41. {: #q41}
+
+[Top](#ecdl-top)
+42. {: #q42}
+
+[Top](#ecdl-top)
+43. {: #q43}
+
+[Top](#ecdl-top)
+44. {: #q44}
+
+[Top](#ecdl-top)
+45. {: #q45}
+
+[Top](#ecdl-top)
+46. {: #q46}
+
+[Top](#ecdl-top)
+47. {: #q47}
+
+[Top](#ecdl-top)
+48. {: #q48}
+
+[Top](#ecdl-top)
+49. {: #q49}
+
+[Top](#ecdl-top)
+50. {: #q50}
+
+[Top](#ecdl-top)
+51. {: #q51}
+
+[Top](#ecdl-top)
+52. {: #q52}
+
+[Top](#ecdl-top)
+53. {: #q53}
+
+[Top](#ecdl-top)
+54. {: #q54}
+
+[Top](#ecdl-top)
+55. {: #q55}
+
+[Top](#ecdl-top)
+56. {: #q56}
+
+[Top](#ecdl-top)
+57. {: #q57}
+
+[Top](#ecdl-top)
+58. {: #q58}
+
+[Top](#ecdl-top)
+59. {: #q59}
+
+[Top](#ecdl-top)
+60. {: #q60}
+
+[Top](#ecdl-top)
+61. {: #q61}
+
+[Top](#ecdl-top)
+62. {: #q62}
+
+[Top](#ecdl-top)
+63. {: #q63}
+
+[Top](#ecdl-top)
+64. {: #q64}
+
+[Top](#ecdl-top)
+65. {: #q65}
+
+[Top](#ecdl-top)
 </div>
 
 </div>
