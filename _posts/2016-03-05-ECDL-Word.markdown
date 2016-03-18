@@ -20,13 +20,15 @@ to work how I envisage it to work.
 
 1. {: #q1} Create a new, blank document.   
 
-    **A:** Click the **FILE** tab, then click **New**.  
+    ****Suggested solution:****
+    Click the **FILE** tab, then click **New**.  
     return Double-click **Blank document**.
     [Top](#ecdl-top)
 
 2. {: #q2} Save the document to `\` using the file name show.
 
-    **A:** Click the **File** tab, then click **Save As** then **Browse**.
+    ****Suggested solution:****
+    Click the **File** tab, then click **Save As** then **Browse**.
 
     In the **Save As** dialogue box, change the file name to **show**
 
@@ -34,6 +36,8 @@ to work how I envisage it to work.
     [Top](#ecdl-top)
 
 3. {: #q3} Change the Word user name to Jim Brown.
+4.
+    ****Suggested solution:****
 
     Click the **File** tab, and then click **Options**.
     Under **Personalize your copy of Microsoft Office**, type **Jim Brown** in
@@ -42,6 +46,7 @@ to work how I envisage it to work.
 
 4. {: #q4} Zoom the document to 105%
 
+    ****Suggested solution:****
     On the **view** tab, in the **Zoom** group, click **Zoom**.
 
     in the **Percent** list, type 105.   
@@ -49,6 +54,7 @@ to work how I envisage it to work.
 
 5. {: #q5} Where should you click to display the ribbon?
 
+    ****Suggested solution:****
     The Quick Access Toolbar, right-click
 
     The Tab bar, right-click on tab name
@@ -58,12 +64,14 @@ to work how I envisage it to work.
 
 6. {: #q6} Where should you click to open the help function?
 
+    ****Suggested solution:****
     The Help icon.
     [Top](#ecdl-top)
 
 7. {: #q7} Save this document as Word Template format to This `\` span!. Keep
     the default file name.
 
+    ****Suggested solution:****
     Click the **File** tab, then click **Save As**, and then click **Browse**.
 
     In the **Save As** dialogue box, select **Word Template ** in the **Save as
@@ -72,15 +80,17 @@ to work how I envisage it to work.
     Click **Save**.
     [Top](#ecdl-top)
 
-     Document Creation
+
 8. {: #q8} Switch to Print Layout mode.
 
+    ****Suggested solution:****
     On the **View** tab, in the **Views** group, click the **Print Layout**
     button.
     [Top](#ecdl-top)
 
 9. {: #q9} Hide non-printing formatting marks in the document.
 
+    ****Suggested solution:****
     On the **Home** tab, in the **Paragraph** group, click the **Show/Hide**
     button.
     [Top](#ecdl-top)
@@ -88,7 +98,8 @@ to work how I envisage it to work.
 10. {: #q10}At the top of the page, enter the word Smith to the
     right of John
 
-    **A** Click to the right of **John** and type the word **Smith.**
+    ****Suggested solution:****
+     Click to the right of **John** and type the word **Smith.**
 
     Make sure that there is a space between **John** and **Smith**
     [Top](#ecdl-top)
@@ -96,13 +107,14 @@ to work how I envisage it to work.
 11. {: #q11} In the paragraph beginning If possible..., enter
     the word parking between the words the and garage. [Top](#ecdl-top)
 
-    **A** In the paragraph that begins with **If possible...**, click once
+    ****Suggested solution:****
+    In the paragraph that begins with **If possible...**, click once
     between the words **the** and **garage** and type the word **parking**.
 
 12. {: #q12} In the paragraph beginning There will..., change
     the word customers to guests.
 
-    **A:** Find the paragraph that begins with **There will...**
+    ****Suggested solution:**** Find the paragraph that begins with **There will...**
 
     Select the word **customers**.
 
@@ -115,7 +127,8 @@ to work how I envisage it to work.
     of the word the. Enter the number of times it occurs after the text Enter
     number here: at the top of the page. (Use a figure.)
 
-    **A:** On the **Home** tab, in the **Editing** group, click **Find**.
+    ****Suggested solution:****
+    On the **Home** tab, in the **Editing** group, click **Find**.
     The **Navigation** task pane is displayed.
     In the **Search Document** box, type **the**.
     The number of found words is displayed.
@@ -127,185 +140,363 @@ to work how I envisage it to work.
 14. {: #q14} Copy the word Smith from the top of the page. Place it to the
     right of the words Dear Mr..
 
-    **A:** Select the word **Smith**.
-    Click the **Copy** button found in the **Clipboard** group on the Home tab.
+    ****Suggested solution:****
+    Select the word **Smith**.
+    Click the **Copy** button found in the **Clipboard** group
+    on the Home tab.
     Click to the right of the word **Mr**.
-    Click the **Paste** button found in the **Clipboard** group on the **Home**
-    tab. [Top](#ecdl-top)
-15. {: #q15} Move the paragraph beginning If possible.... Place it between
-    the paragraphs beginning There will... and Yours sincerely....
+    Click the **Paste** button found in the **Clipboard** group
+    on the **Home** tab. [Top](#ecdl-top)
 
-    **A:** Select the paragraph beginning **If possible....**
-    Click the **Cut** button found in the **Clipboard** group on the **Home**
-    tab.
+15. {: #q15} Move the paragraph beginning If possible.... Place
+    it between the paragraphs beginning There will... and Yours
+    sincerely....
+
+    ****Suggested solution:****
+    Select the paragraph beginning **If possible....**
+    Click the **Cut** button found in the **Clipboard** group
+    on the **Home** tab.
     Click to the left of the word **Yours**.
-    Click the **Paste** button found in the **Clipboard** group on the **Home**
-    tab. [Top](#ecdl-top)
-16. {: #q16} In the paragraph beginning We at..., delete the word luxury.
+    Click the **Paste** button found in the **Clipboard** group
+    on the **Home** tab. [Top](#ecdl-top)
 
-    **A:** In the paragraph beginning **We at...**, select the word **luxury**.
+16. {: #q16} In the paragraph beginning We at..., delete the word
+    luxury.
+
+    ****Suggested solution:****
+    In the paragraph beginning
+    **We at...**, select the word **luxury**.
     Press the **Delete** key once. [Top](#ecdl-top)
-17. {: #q17} At the bottom of the page, insert a copyright symbol ( &copy; )
-    to the left of Mary Smith.
 
-    **A:** Click to the left of **Mary Smith**.
-On the **Insert tab**, in the **Symbols** group, click **Symbol**.
-Click the copyright symbol ( &copy; ) in the drop-down list.
-If the copyright symbol is not in the list, click **More Symbols**.
-[Top](#ecdl-top)
+17. {: #q17} At the bottom of the page, insert a copyright symbol
+    ( &copy; ) to the left of Mary Smith.
 
-18. {: #q18} Use the appropriate command to automatically replace all
-    occurrences of the word component with part.
+    ****Suggested solution:**** Click to the left of **Mary Smith**.
+    On the **Insert tab**, in the **Symbols** group, click
+    **Symbol**. Click the copyright symbol ( &copy; ) in the
+    drop-down list. If the copyright symbol is not in the list,
+    click **More Symbols**. [Top](#ecdl-top)
 
-    **A:** On the **Home** tab, in the **Editing** group, click **Replace**.
+18. {: #q18} Use the appropriate command to automatically replace
+    all occurrences of the word component with part.
+
+    ****Suggested solution:****
+    On the **Home** tab, in the **Editing** group, click
+    **Replace**.
     In the **Find what** box, type **component**.
     In the **Replace with** box, type **part**.
     Click **Replace All**. [Top](#ecdl-top)
 
 19. {: #q19} Use the appropriate command to undo the last action.
 
-    **A**  Click the **Undo** button in the **Quick Access** toolbar.
-    The **Quick Access** toolbar is located in the upper left corner of the
-     window.[Top](#ecdl-top)
+    **A**  Click the **Undo** button in the **Quick Access**
+    toolbar.
+    The **Quick Access** toolbar is located in the upper left
+    corner of the window. [Top](#ecdl-top)
+
 
 20. {: #q20}
+    **Formatting**
 
-[Top](#ecdl-top)
-21. {: #q21}
+    Apply italic formatting to the heading Jim's sporting and
+    outdoor goods.
 
-[Top](#ecdl-top)
-22. {: #q22}
+    Select the words **Jim’s sporting and outdoor goods**.
+    On the Home tab, in the Font group, click the Italic button.
+    [Top](#ecdl-top)
 
-[Top](#ecdl-top)
-23. {: #q23}
+21. {: #q21} Change the font colour of the heading Jim's sporting and outdoor
+    goods to a colour of your choice.
 
-[Top](#ecdl-top)
-24. {: #q24}
+    ****Suggested solution:**** Select the words **Jim’s sporting and outdoor goods**.
+    To apply the color most recently used, click the **Font Color** button found
+    in the **Font** group on the **Home** tab.
+    To apply a different color, click the arrow next to the **Font Color**
+    button, and then select a new colour. [Top](#ecdl-top)
 
-[Top](#ecdl-top)
-25. {: #q25}
+22. {: #q22} Capitalise each word in the text beginning john smith... and
+    ending ...dorchester.
 
-[Top](#ecdl-top)
-26. {: #q26}
+    Select the paragraph beginning **john smith**... and ending
+     **...dorchester**.
+    On the **Home** tab, in the **Font** group, click the **Change Case**
+    button. Click the **Capitalize Each Word option**. [Top](#ecdl-top)
 
-[Top](#ecdl-top)
-27. {: #q27}
+23. {: #q23} Apply Tahoma font to the text beginning **John Smith...** and
+    ending **...Dorchester**.
 
-[Top](#ecdl-top)
-28. {: #q28}
+    Select the paragraph beginning **John Smith...** and ending
+   **...Dorchester**
+    On the **Home** tab, in the **Font** group, select **Tahoma** in the Font
+    box. [Top](#ecdl-top)
+24. {: #q24} Change the font size of the paragraph beginning Since you...
+    to 12 point.
 
-[Top](#ecdl-top)
-29. {: #q29}
+    Select the paragraph beginning **Since you....**
+    On the **Home** tab, in the **Font** group, click 12 in the **Font Size**
+    box . [Top](#ecdl-top)
+25. {: #q25} In the paragraph beginning There will..., start a new paragraph
+    at the sentence beginning We at....
 
-[Top](#ecdl-top)
-30. {: #q30}
+    In the paragraph beginning **There will...**, click to the left of the word
+    **We** in the sentence that starts **We at....**
+    Press the **Enter** key once. [Top](#ecdl-top)
 
-[Top](#ecdl-top)
-31. {: #q31}
+26. {: #q26} Apply a first line indent of 1 centimetre to the paragraph
+    beginning Since you....
 
-[Top](#ecdl-top)
-32. {: #q32}
+    Select the paragraph beginning **Since you....**
+    On the **Page Layout** tab, in the **Paragraph** group, click the
+    **Paragraph Settings** icon.
+    In the **Paragraph** dialogue box, on the **Indents and Spacing** tab, click
+    the **Special** list under **Indentation**.
+    Then select **First line**, and type **1** in the **By** field.
+    [Top](#ecdl-top)
 
-[Top](#ecdl-top)
-33. {: #q33}
 
-[Top](#ecdl-top)
-34. {: #q34}
+27. {: #q27} Apply a 6 point Before spacing to the paragraph beginning Since you....
 
-[Top](#ecdl-top)
-35. {: #q35}
+    **Suggested solution:**
+    Select the paragraph beginning **Since you....**
+    On the **Page Layout** tab, in the **Paragraph** group, click an arrow next to **Spacing Before** and enter **6**. [Top](#ecdl-top)
 
-[Top](#ecdl-top)
-36. {: #q36}
+28. {: #q28}  Remove the line break after the sentence beginning We at... and ending ...sports products.
 
-[Top](#ecdl-top)
-37. {: #q37}
+    **Suggested solution:**
+    In the paragraph beginning We at..., click to the left of the word As in the sentence starting As you....
+    Press the Backspace key once.
 
-[Top](#ecdl-top)
-38. {: #q38}
+    At the bottom of the page, apply the character style Name to the words Jim Brown.
+    **Suggested solution:**
+    Select the words Jim Brown.
+    On the Home tab, in the Styles group, click the Styles icon.
+    In the Styles window, click the character style Name.
 
-[Top](#ecdl-top)
-39. {: #q39}
+    Apply automatic hyphenation throughout the document.
+    **Suggested solution:**
+    Make sure that no text is selected.
+    On the Page Layout tab, in the Page Setup group, click Hyphenation, and then click Automatic.
 
-[Top](#ecdl-top)
-40. {: #q40}
+    When positioning text between the side margins, one function is considered good practice to use. Which function?
 
-[Top](#ecdl-top)
-41. {: #q41}
 
-[Top](#ecdl-top)
-42. {: #q42}
+    The Align function
 
-[Top](#ecdl-top)
-43. {: #q43}
+    When changing distance between paragraphs, one function is considered good practice to use. Which function?
 
-[Top](#ecdl-top)
-44. {: #q44}
 
-[Top](#ecdl-top)
-45. {: #q45}
+    The Spacing function
 
-[Top](#ecdl-top)
-46. {: #q46}
+    At the top of the page, centre the heading The Internet.
+    **Suggested solution:**
+    Select the heading The Internet.
+    On the Home tab, in the Paragraph group, click the Center button.
 
-[Top](#ecdl-top)
-47. {: #q47}
+    At the top of the page, apply a ½ point black box outside border to the heading The Internet.
+    **Suggested solution:**
+    Select the heading The Internet.
+    On the Page Layout tab, in the Page Background group, click Page Borders.
+    In the Borders and Shading dialogue box, click the Borders tab, and then click Box under Setting.
+    Under Style, choose the default style.
+    Under Color, choose black.
+    Under Width, choose ½.
+    Click Paragraph under Apply to.
 
-[Top](#ecdl-top)
-48. {: #q48}
+    Copy only the formatting of the heading Basics. Apply the formatting to the heading Other services.
+    **Suggested solution:**
+    Select the heading Basics.
+    On the Home tab, in the Clipboard group, click the Format Painter button.
+    The mouse pointer changes to a paintbrush icon.
+    Use the mouse and select the heading Other services.
 
-[Top](#ecdl-top)
-49. {: #q49}
+    Apply the paragraph style Webtext to the paragraph beginning What we....
+    **Suggested solution:**
+    Select the paragraph beginning What we....
+    On the Home tab, in the Styles group, click the Styles icon.
+    In the Styles window, click the paragraph style Webtext.
 
-[Top](#ecdl-top)
-50. {: #q50}
+    Merge the paragraphs beginning Another component... and File Transfer....
+    **Suggested solution:**
+    Click to the left of the word File in the sentence beginning File Transfer Protocol....
+    Press the Backspace key once.
 
-[Top](#ecdl-top)
-51. {: #q51}
+    Apply a 36 point After spacing to the paragraph beginning Another component... and ending ...browser..
+    **Suggested solution:**
+    Select the paragraph beginning Another component....
+    On the Page Layout tab, in the Paragraph group, click an arrow next to Spacing After and enter 36.
 
-[Top](#ecdl-top)
-52. {: #q52}
+    Apply the Superscript text effect to the copyright symbol (©) at the bottom of the page.
+    **Suggested solution:**
+    Select the copyright symbol.
+    On the Home tab, in the Font group, click the Superscript button.
 
-[Top](#ecdl-top)
-53. {: #q53}
+    On page 2, apply bullets of your choice to the words Network, Protocol and Hypertext.
+    **Suggested solution:**
+    Select the words Network, Protocol and Hypertext.
+    On the Home tab, in the Paragraph group, click the Bullets button.
 
-[Top](#ecdl-top)
-54. {: #q54}
+    On page 2, set a Left tab at 5.5 centimetres in the list beginning China.
+    **Suggested solution:**
+    Select the paragraph beginning China.
+    On the Page Layout tab, in the Paragraph group, click the Paragraph icon.
+    In the Paragraph dialog box, click Tabs.
+    Under Alignment, make sure the Left option is set.
+    Type 5.5 in the Tab stop position box.
+    Click the Set button.
 
-[Top](#ecdl-top)
-55. {: #q55}
+    On page 2, apply a numbered list of your choice to the list beginning China and ending Italy.
+    **Suggested solution:**
+    Select the list beginning China and ending Italy.
+    On the Page Layout tab, in the Paragraph group, click the Numbering button.
 
-[Top](#ecdl-top)
-56. {: #q56}
+    Objects
 
-[Top](#ecdl-top)
-57. {: #q57}
+    On page 2, insert a table with three columns and five rows. Place it below the words Internet users. Enter the word Rank in the first row, first column of the table.
+    **Suggested solution:**
+    Click below the words Internet users.
+    On the Insert tab, in the Tables group, click Table and then Insert Table....
+    Type 3 in the Number of columns list.
+    Type 5 in the Number of rows list.
+    Click OK.
+    Type Rank in the upper cell in the leftmost column.
 
-[Top](#ecdl-top)
-58. {: #q58}
+    On page 2, apply a different background colour of your choice to the top row of the table.
+    **Suggested solution:**
+    Click to left of the first row of the table to select the row.
+    Under Table Tools, click the Design tab.
+    In the Table Styles group, click Shading.
+    Choose a colour from the drop-down menu.
 
-[Top](#ecdl-top)
-59. {: #q59}
+    On page 2, change the word Norway in the table to Japan.
+    **Suggested solution:**
+    In the table, locate and select the word Norway.
+    Type Japan.
 
-[Top](#ecdl-top)
-60. {: #q60}
+    On page 2, delete the bottom row of the table.
+    **Suggested solution:**
+    Click once to the left of the bottom row to select the row.
+    Under Table Tools, click the Layout tab.
+    In the Rows & Columns group, click Delete, and then click Delete Rows.
 
-[Top](#ecdl-top)
-61. {: #q61}
+    On page 2, set the width of the first column of the table to 1.5 centimetres.
+    **Suggested solution:**
+    Click once on the leftmost column's top border to select the column.
+    Under Table Tools, click the Layout tab and then click Properties in the Table group.
+    Click the Column tab and type 1.5 in the Preferred width list.
 
-[Top](#ecdl-top)
-62. {: #q62}
+    On page 2, change the width of all borders in the table to 1 point.
+    **Suggested solution:**
+    Click the table move handle in the upper leftmost corner to select the entire table.
+    Under Table Tools, click the Design tab and then click the arrow next to Borders.
+    Click Borders and Shading in the drop-down menu.
+    On the Borders tab under Width, click 1.
 
-[Top](#ecdl-top)
-63. {: #q63}
+    At the bottom of page 2, below the table, insert the picture internet.jpg from \.
+    **Suggested solution:**
+    Click below the table.
+    On the Insert tab, in the Illustrations group, click Pictures.
+    In the Insert Picture dialogue box, select the image file internet.jpg and click Insert.
 
-[Top](#ecdl-top)
-64. {: #q64}
+    Move the picture from the bottom of page 2 to the top of page 1 above the heading The Internet.
+    **Suggested solution:**
+    Select the picture.
+    Click the Cut button found in the Clipboard group on the Home tab.
+    Click just above the heading The Internet.
+    Click the Paste button found in the Clipboard group on the Home tab.
 
-[Top](#ecdl-top)
-65. {: #q65}
+    Resize the picture at the top of page 1 so that it is 2.5 centimetres high and 3.0 centimetres wide.
+    **Suggested solution:**
+    Select the picture at the top of the page.
+    Under Picture Tools, click the Format tab.
+    In the Size group, enter 2.5 into the Shape Height box and 3.0 into the Shape Width box.
 
-[Top](#ecdl-top)
+    Mail Merge
+
+    A. Open the file reminder from \ and select it as a mail merge main document of type Letters. B. Select the customers file from \ as the address list.
+    **Suggested solution:**
+    Click the File tab, and then click Open.
+    In the Open dialogue box, select the file reminder.
+    Click Open.
+    Click the Mailings tab and then Start Mail Merge.
+    Click Step by Step Mail Merge Wizard.
+    In the Mail Merge task pane, make sure the option Letters is selected.
+    Click Next: Starting Document.
+    Make sure the option Use the current document is selected.
+    Click Next: Select recipients.
+    Make sure the option Use an existing list is selected.
+    Click Browse.
+    In the Select Data Source dialogue box, navigate to and select the file customers.
+    Click Open.
+    In the Mail Merge Recipients dialogue box, click OK.
+
+    A. Insert the merge field Country just below the City field. B. Merge the form letter and the address list to a new document.
+    **Suggested solution:**
+    In the open document, click just below the field City.
+    In the Mail Merge task pane, click More items.
+    In the Insert Merge Field dialogue box, select the Country field.
+    Click Insert.
+    Click Close.
+    Click Next: Preview your letters.
+    Click Next: Complete the merge.
+    Click Edit individual letters.
+    In the Mail Merge Recipients dialogue box, click OK.
+
+    Prepare Outputs
+
+    Change the text in the document footer to Customers.
+    **Suggested solution:**
+    Double-click the bottom of a page to open the footer.
+    Select the text in the footer and type Customers.
+
+    Which method is considered good practice when adding a new page in a document?
+
+
+    Inserting a page break.
+
+    Change the document's orientation to Portrait.
+    **Suggested solution:**
+    On the Page Layout tab, in the Page Setup group, click Orientation.
+    Click Portrait.
+
+    At the bottom of the page, insert a page break after Mary Smith.
+    **Suggested solution:**
+    Click to the right of Mary Smith.
+    On the Insert tab, in the Pages group, click Page Break.
+
+    Change the right margin to 2.5 centimetres.
+    **Suggested solution:**
+    On the Page Layout tab, in the Page Setup group, click Margins.
+    Click Custom Margins, and then in the Right box, enter 2.5.
+
+    Add a Date field to the left hand side of the document header. Choose the default date format. The date should be updated automatically.
+    **Suggested solution:**
+    Double-click on top of a page to open the header.
+    Under Header & Footer Tools, on the Design tab, in the Insert group, click Date & Time.
+    In the Available formats list, click the format in which you want the date to appear.
+    Make sure that the Update automatically check box is selected.
+
+    Apply the automatic page numbering function. The page numbers should be left aligned in the footer.
+    **Suggested solution:**
+    On the Insert tab, in the Header & Footer group, click Page Number.
+    Select Bottom of Page.
+    Choose a page number layout that is left aligned.
+
+    Use the spell check function and make the necessary changes.
+    **Suggested solution:**
+    On the Review tab, in the Proofing group, click Spelling and Grammar.
+    Click the Change button until all misspelled words are corrected.
+
+    Where should you click to display how the document will appear when printed?
+
+
+    The Print option
+
+    Where should you click to choose that 4 copies of the document should be printed?
+
+
+    The Number of copies box
+    The Number of copies box, up arrow
+
 </div>
 
 </div>
