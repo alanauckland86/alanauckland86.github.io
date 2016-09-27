@@ -4,12 +4,12 @@ title: Solent Univerity
 permalink: /solent-uni/
 ---
 
-<ul class="uni-professional-practice">
-    {% for post in site.categories.professional-practice %}
-        {% if post.url %}
-            <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> </li>
-        {% endif %}
-    {% endfor %}
-</ul>
-
+<div class="home">
+	<ul class="uni-professional-practice">
+	    {% for post in site.categories.professional-practice %}
+	        {% if post.url %}
+	            <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> </li>
+	        {% endif %}
+	    {% endfor %}
+	</ul>
 </div>
