@@ -15,8 +15,8 @@ permalink: /solent-uni/
 	</ul>
 
 <!-- list for web application development posts -->
-	<ul class="ecdl-list">
-	    {% for post in site.categories.web-app-dev %}
+	<ul class="web-app-dev">
+	    {% for post in site.categories.web-app-dev%}
 	        {% if post.url %}
 	            <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> </li>
 	        {% endif %}
