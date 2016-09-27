@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Web Application Development'
-date: 2016-09-27
+title: Web Application Development
+date: '2016-09-27 20:00:00 +0000'
 catigories: web-app-dev
 tags: web-app-dev
 ---
