@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Profesional Practice"
-date:   '2016-03-01 07:00:28 +0000'
+date:   '2016-09-26 07:00:28 +0000'
 categories: professional-practice 
 tags: professional-practice 
 ---
